@@ -12,8 +12,7 @@
 | `Playback steps`  | 1. Открыть сайт testqastudio.me
 |                   | 2. Найти ссылку «Распродажа товаров»  
 |                   | 3. Кликнуть на ссылку «Распродажа товаров» |
-| `Current result`  | Раздел  «Распродажа товаров» не открывается ![2023-10-16_20-21-48](https://github.com/LidiyaRomanova/Bug-reports/assets/147500942/b9668741-bd7b-43b3-a055-863a6217e49f)
-|
+| `Current result`  | Раздел  «Распродажа товаров» не открывается ![2023-10-16_20-21-48](https://github.com/LidiyaRomanova/Bug-reports/assets/147500942/b9668741-bd7b-43b3-a055-863a6217e49f) |
 | `Expected Result` | Открывается раздел «Распродажа товаров» |
 | `Environment`     | Windows 10 Pro,Firefox 118.0.2 |
 | `Device`          | ПК |
@@ -37,8 +36,7 @@
 |                   | 2. Найти кнопку «Фильтр»
 |                   | 3. Нажать кнопку «Фильтр»
 |                   | 4. Нажать на пункт меню «Сортировать по» |
-| `Current result`  | Фильтр называется «Сортировать по цене: по возрастанию» ![2023-10-16_20-53-17](https://github.com/LidiyaRomanova/Bug-reports/assets/147500942/06116938-8cf1-4b8c-bbe3-1d714a38cb3c)
-|
+| `Current result`  | Фильтр называется «Сортировать по цене: по возрастанию» ![2023-10-16_20-53-17](https://github.com/LidiyaRomanova/Bug-reports/assets/147500942/06116938-8cf1-4b8c-bbe3-1d714a38cb3c) |
 | `Expected Result` | Фильтр называется «Сортировать по цене: от высокой к низкой» |
 | `Environment`     | Windows 10 Pro,Firefox 118.0.2 |
 | `Device`          | ПК |
